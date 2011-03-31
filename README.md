@@ -12,10 +12,6 @@
 # CONTRIBUTORS
     None required yet.
 
-# COPYRIGHT
-    Copyright 2011 THIS APPLICATIONs "AUTHOR" and "CONTRIBUTORS" as listed
-    above.
-
 # LICENSE
-    This program is free software; you can redistribute it and/or modify it
+    This code is free software; you can redistribute it and/or modify it
     under the terms of the Artistic license.
